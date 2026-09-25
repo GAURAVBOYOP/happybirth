@@ -1,5 +1,5 @@
 
-const birthday = new Date("October 3, 2026 00:00:00").getTime();
+const birthday = new Date("October 27, 2026 00:00:00").getTime();
 const $ = id => document.getElementById(id);
 
 function particles(){
